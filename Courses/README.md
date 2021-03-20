@@ -13,3 +13,7 @@
 ## Mar 6, 2021
 - Feature Engineering 
     - Creating Features
+
+## Mar 20, 2021
+- Feature Engineering
+    - Clustering With K-Means
