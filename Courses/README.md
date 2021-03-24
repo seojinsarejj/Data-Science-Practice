@@ -18,3 +18,7 @@
 - Feature Engineering
     - Clustering With K-Means
     - Principal Component Analysis
+
+## Mar 24, 2021
+- Feature Engineering
+    - Target Encoding
