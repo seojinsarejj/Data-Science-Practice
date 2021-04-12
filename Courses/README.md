@@ -22,3 +22,11 @@
 ## Mar 24, 2021
 - Feature Engineering
     - Target Encoding
+
+## April 11, 2021
+- Intro to Machine Learning
+  - Your First Machine Learning Model
+
+## April 12, 2021
+- Intro to Machine Learning
+  - Model Validation
