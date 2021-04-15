@@ -30,3 +30,5 @@
 ## April 12, 2021
 - Intro to Machine Learning
   - Model Validation
+
+## April 16, 2021
